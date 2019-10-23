@@ -1,4 +1,4 @@
-# SaveSheldon
+# Save Sheldon
 
 tldr? A text classifier that detects sarcasm.
 
